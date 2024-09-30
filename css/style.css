@@ -1,0 +1,32 @@
+.header, .hero, .body, .ber, .six{
+    background-color: rgb(62, 130, 255);
+    margin-bottom: 10px;
+}
+.box{
+    margin: 10px 0;
+    min-height: 80px;
+    background-color: rgb(0, 255, 13);
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+.red{
+    background-color: rgb(255, 172, 70);
+}
+.five{
+    background-color: blueviolet;
+}
+/* footer start*/
+.footer {
+    font-family: sans-serif;
+    font-size: 15px;
+	margin: 0.5%;
+	border: 1px solid rgb(0, 0, 0);
+    background-color: #ffffff;
+}
+.footer p {
+    padding: 15px 25px 5px;
+    text-align: center;
+    color: #000000;
+}
+ /* footer end*/
