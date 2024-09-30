@@ -1,4 +1,4 @@
-# Bootstrap-5-custom-layout
-bootstrap-5-custom-layout
+# Bootstrap-Custom-Layout
+bootstrap-custom-layout
 
 Preview : https://aimaksim.github.io/bootstrap-5-custom-layout/
